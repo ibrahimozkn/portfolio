@@ -2,7 +2,7 @@ import React from "react";
 
 function Timeline() {
   return (
-    <ul className="timeline w-full">
+    <ul className="timeline timeline-vertical xl:timeline-horizontal my-5">
       <li>
         <div className="timeline-start">2019</div>
         <div className="timeline-middle">
