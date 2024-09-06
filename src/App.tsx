@@ -40,7 +40,7 @@ function App() {
         </button>
       </section>
       <AboutMe nextSectionRef={nextSectionRef} />
-      <section className="min-h-screen">
+      <section className="">
         <div className="flex flex-col p-4 sm:p-8 items-center">
           <h2 className="font-bold text-3xl sm:text-5xl text-center">
             My Projects 💻

@@ -9,7 +9,7 @@ function AboutMe({ nextSectionRef }: AboutMeProps) {
   return (
     <section
       ref={nextSectionRef}
-      className="container flex flex-col min-h-screen p-8 items-center"
+      className="container flex flex-col min-h-screen p-8 items-center text-center lg:text-left"
     >
       <div className="flex flex-grow flex-col justify-center items-center md:flex-row">
         <div className="flex-none w-full md:w-1/2">
