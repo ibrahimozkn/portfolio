@@ -1,6 +1,6 @@
 # Ibrahim Ozkan's Portfolio
 
-This project is a personal portfolio website showcasing Ibrahim Ozkan's projects, skills, and professional experience in software development.
+This project is a personal portfolio website showcasing my projects, skills, and professional experience in software development.
 
 ## Technologies Used
 
@@ -70,6 +70,3 @@ To learn more about the technologies used in this project:
 - [Tailwind CSS documentation](https://tailwindcss.com/)
 - [DaisyUI documentation](https://daisyui.com/)
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
