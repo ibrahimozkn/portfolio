@@ -19,10 +19,9 @@ function Hero({ nextSectionRef }: HeroProps) {
         <div className="relative z-10 text-center lg:text-left">
           <h1 className="text-lg sm:text-xl font-bold">Hello! I'm Ibrahim</h1>
           <h2 className="text-4xl sm:text-6xl md:text-8xl font-bold">
-            <span className="text-blue-400">
-              Extraordinaire Flutter Developer
-            </span>{" "}
-            Turning Code into Pixel-Perfect <span>Magic!🪄</span>
+            Crafting software solutions with precision, creativity, and a touch
+            of
+            <span className="text-blue-400"> code magic!🪄</span>
           </h2>
         </div>
         <div className="absolute z-0 bottom-1/4 left-1/2 transform -translate-x-1/2 -translate-y-1/2">

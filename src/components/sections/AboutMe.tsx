@@ -15,11 +15,16 @@ function AboutMe({ nextSectionRef }: AboutMeProps) {
         <div className="flex-none w-full md:w-1/2">
           <h2 className="text-5xl font-bold">About Me 🔎</h2>
           <p className="text-xl mt-4">
-            I'm a passionate developer who loves to build beautiful and
-            functional applications. I have a keen eye for detail and love to
-            create pixel-perfect designs. I specialize in building mobile
-            applications using Flutter and have experience working with various
-            APIs and backend services.
+            I'm İbrahim Özkan, a passionate software engineer with a strong
+            foundation in computer engineering, having graduated with honors
+            from METU. Currently, I'm pursuing my MSc in Software Systems
+            Engineering at Hasso Plattner Institut, Potsdam, where I also work
+            as a HiWi, developing the StudyU app to digitalize N-of-1 trials.
+            Over the years, I've honed my skills in mobile and web development,
+            working with technologies like Flutter, Laravel, and PHP. Alongside
+            three fellow graduates, I co-founded Morphou Software, where we
+            secured funding for our first project, Gatsot—a crowdsourced price
+            comparison app.
           </p>
         </div>
         <div className="flex-none w-full md:w-1/2 h-full mt-8 md:mt-0 relative">
