@@ -1,5 +1,6 @@
 import React from "react";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
+import ThemeToggle from "./ThemeToggle";
 
 function Navbar() {
   return (
@@ -8,6 +9,7 @@ function Navbar() {
         <a className="btn btn-ghost text-xl">ibrahimozkan</a>
       </div>
       <div className="flex-none">
+        <ThemeToggle />
         <a
           href="https://www.linkedin.com/in/ibrahim-ozkan/"
           target="_blank"

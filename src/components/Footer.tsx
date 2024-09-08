@@ -5,23 +5,25 @@ function Footer() {
   return (
     <footer className="footer p-5 bg-base-200 text-neutral-content rounded-lg">
       <div className="flex flex-row justify-between w-full items-center">
-        <p>© 2024 Ibrahim. All rights reserved.</p>
+        <p className="text-base-content">
+          © 2024 Ibrahim. All rights reserved.
+        </p>
         <div className="flex gap-2">
-          <a
-            href="https://github.com/ibrahimozkn"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn btn-ghost"
-          >
-            <FaGithub className="h-6 w-6" />
-          </a>
           <a
             href="https://www.linkedin.com/in/ibrahim-ozkan/"
             target="_blank"
             rel="noopener noreferrer"
-            className="btn btn-ghost"
+            className="btn btn-ghost btn-circle"
           >
-            <FaLinkedin className="h-6 w-6" />
+            <FaLinkedin className="h-5 w-5 text-base-content" />
+          </a>
+          <a
+            href="https://github.com/ibrahimozkn"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-ghost btn-circle"
+          >
+            <FaGithub className="h-5 w-5 text-base-content" />
           </a>
         </div>
       </div>
