@@ -56,6 +56,7 @@ Builds the app for production to the `build` folder.
 - Project showcase
 - Timeline of professional experience
 - Contact information
+- Dark/Light Theme
 
 ## Deployment
 
