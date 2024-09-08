@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Gatsot: Crowdsourced Price Comparison App",
+    "description": "Gatsot is a crowdsourced price comparison app that uses receipt image processing to display product prices from various markets, ranked by cost. It features a loyalty system for users who contribute data.",
+    "technologies": ["Laravel", "MySQL", "Flutter", "React"],
+    "demo": "https://www.youtube.com/watch?v=pqvS-y3KiQg",
+    "code": ""
+  },
+  {
+    "title": "PopTracker: Indoor Population Tracker App",
+    "description": "PopTracker is a mobile app using Arduino-connected motion sensors to monitor and display real-time data on indoor population flow. Sensor data is sent to a cloud server for app visualization.",
+    "technologies": ["Laravel", "MySQL", "Flutter", "AWS EC2"],
+    "demo": "",
+    "code": "https://github.com/ibrahimozkn/PopTracker-Indoor-Population-App"
+  },
+  {
+    "title": "FQPlugins: Unturned Rocketmod Plugin Collection",
+    "description": "FQPlugins is an open-source collection of essential plugins for the game Unturned. It caters to the Unturned community by providing highly sought-after functionalities through Rocketmod plugins.",
+    "technologies": ["C#", "Unity", "Rocketmod"],
+    "demo": "",
+    "code": "https://github.com/FQPlugins"
+  },
+  {
+    "title": "Leo4 Domain Validator",
+    "description": "Leo4 is a microservice built to validate domains and verify ownership. It ensures that the domains registered by customers are truly owned by them, providing a simple and secure verification process.",
+    "technologies": ["PHP", "Laravel"],
+    "demo": "",
+    "code": "https://github.com/plusclouds/leov4.common_domains.validator"
+  }
+]
